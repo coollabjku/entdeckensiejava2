@@ -1,0 +1,38 @@
+Deutsch	Italiano	Français	Español
+Familie	la famiglia	la famille	la familia
+Mutter	la madre	la mère	la madre
+Vater	il padre	le père	el padre
+Eltern	i genitori	les parents	los padres
+Großmutter	la nonna	la grand-mère	la abuela
+Großvater	il nonno	le grand-père	el abuelo
+Großeltern	i nonni	les grand-parents	los abuelos
+Urgroßmutter	la bisnonna	l'arrière-grand-mère	la bisabuela
+Urgroßvater	il bisnonna	l'arrière-grand-père	el bisabuelo
+Tochter	la figlia	la fille	la hija
+Sohn	il figlio	le fils 	el hijo
+Kinder	i figli	les fils	los hijos
+Enkel	il nipote 	le petit-fils	el nieto
+Enkelin	la nipote	la petite-fille	la nieta
+Urenkel	il pronipote	l'arrière-petit-fils	el bisnieto
+Urenkelin	la pronipote	l'arrière-petite-fille	la bisnieta
+Schwester	la sorella	la sœur	la hermana
+Bruder	il fratello	le frère	el hermano
+Geschwister	i fratelli	les frères 	los hermanos
+Tante	la zia	la tante	la tia
+Onkel	lo zio	l'oncle	el tio
+Nichte	la nipote	la nièce	la sobrina
+Neffe	il nipote 	le neveu	el sobrino
+Cousine	la cugina	la cousine	la prima
+Cousin 	il cugino	le cousin	el primo
+Schwägerin	la cognata	la belle-sœur	la cuñada
+Schwager	il cognato	le beau-frère	el cuñado
+Schwiegermutter	la suocera	la belle-mère	la suegra
+Schwiegervater	il suocero	le beau-père	el suegro
+Schwiegertochter	la nuora	la belle-fille	la nora
+Schwiegersohn	il genero	le gendre	el yerno
+Stiefvater	il patrigno	le beau-père	il padrastro
+Stiefmutter	la matrigna	la belle-mère	la madrastra
+Stiefbruder	il fratellastro	le demi-frère	el hermanastro
+Stiefschwester	la sorellastra	la demi-sœur	la hermanastra
+Stiefsohn	il figliastro	le beau-fils	el hijastro
+Stieftochter	la figliastra	la belle-fille	la hijastra
